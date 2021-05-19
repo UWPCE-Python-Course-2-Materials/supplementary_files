@@ -1,0 +1,13 @@
+[mongodb_cloud]
+user = xxxxxxx
+pw = xxxxxxxx
+connection =
+
+[redis_cloud]
+host = redis-xxxxx.c9.us-east-1-2.ec2.cloud.redislabs.com
+port = 18815
+pw = xxxxxxxx
+
+[neo4j_cloud]
+user = xxxx
+pw = xxxxxxxxxxxxx

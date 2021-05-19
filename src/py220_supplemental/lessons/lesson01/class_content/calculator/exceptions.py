@@ -1,0 +1,2 @@
+class InsufficientOperands(Exception):
+    pass

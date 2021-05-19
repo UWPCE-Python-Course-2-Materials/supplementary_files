@@ -1,0 +1,7 @@
+loguru
+pysnooper
+pytest
+pytest-cov
+pytest-bdd
+tox
+pytest-mock

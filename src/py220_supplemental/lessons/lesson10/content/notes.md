@@ -1,0 +1,10 @@
+https://www.fullstackpython.com/flask.html
+https://gitconnected.com/
+https://hackr.io/tutorials/learn-flask
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
+https://azure.microsoft.com/en-us/free/python/
+https://blog.dropbox.com/topics/work-culture/-the-mind-at-work--guido-van-rossum-on-how-python-makes-thinking
+https://www.meetup.com/PSPPython/
+https://github.com/pyenv/pyenv
+https://tox.readthedocs.io/en/latest/
+https://subscribe.packtpub.com/pricing/
