@@ -6,6 +6,7 @@ def loads_of_numbers():
 
 
 generator_number = loads_of_numbers()
+
 print(f"number before next {generator_number}")
 print(f"number after next {next(generator_number)}")
 print(f"number after next {next(generator_number)}")

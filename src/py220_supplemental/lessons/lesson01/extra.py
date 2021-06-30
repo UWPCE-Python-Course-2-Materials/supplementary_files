@@ -1,5 +1,5 @@
 # pytest -v test_mark.py -m dicttest
-
+import os
 import pytest
 
 
@@ -14,7 +14,7 @@ def test_something_else():
 
 
 """pytest-xdist
-can use auto instaed of number
+can use auto instead of number
 --numprocesses 4
 """
 
@@ -29,10 +29,6 @@ def database():
 def test_insert(database):
     database.insert(123)
 
-
-# autouse
-import os
-import pytest
 
 
 @pytest.fixture(autouse=True)

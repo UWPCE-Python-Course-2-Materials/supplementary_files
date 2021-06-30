@@ -10,5 +10,12 @@ class MyFuncTestCase(unittest.TestCase):
         self.assertEqual(expected, actual)
 
 
+def test_my_func_pytest():
+    test_val1, test_val2 = 2, 3
+    expected = 6
+    actual = my_func(test_val1, test_val2)
+    assert expected == actual
+
+
 if __name__ == '__main__':
     unittest.main()
